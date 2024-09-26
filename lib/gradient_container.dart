@@ -19,7 +19,7 @@ return Container(
               end: Alignment.bottomRight,
           ),
           ),
-          child: StyledText(),
+          child: const StyledText(),
         );
   }
 }

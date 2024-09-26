@@ -7,7 +7,7 @@ const StyledText({super.key});
 @override
   Widget build(context) {
     return const Center(
-            child: Text('Hello what !!', style: TextStyle(
+            child: Text('Hello  !!', style: TextStyle(
               color: Colors.white,
               fontSize: 28,
             ),), 
