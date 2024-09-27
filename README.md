@@ -1,6 +1,9 @@
 # dice
 
-A new Flutter project.
+A dice rolling app built on Flutter.
+
+![dice](https://github.com/user-attachments/assets/8c85f975-8e04-4f17-8e3c-7f7396d9aef9)
+
 
 ## Getting Started
 
